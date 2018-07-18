@@ -1,1 +1,14 @@
+html, body {margin:0px; padding:0px}
+
+#header {background: linear-gradient(to bottom, rgba(94, 101, 114, 0.5), rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)),
+          url("imgHeader.PNG"), no-repeat;
+          background-size: cover}
+#title {color: white; padding-top:20px; padding-bottom: 250px; padding-left: 30px;
+        font-size: 35px; font-weight: 700; font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif; transform: scaleY(0.94);}
+.goTo {text-decoration: none; color: white; font-size: 15px; font-weight: 300;}
+.current {border: 1px solid white; padding-left: 20px; padding-right: 20px; padding-top: 15px; padding-bottom: 15px}
+#mission {color: white; text-align: center; font-size: 35px;
+          font-weight: 700; font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif; transform: scaleY(0.94);}
+h1 {text-align: center; font-size: 35px; padding-top: 60px;
+    font-weight: 700; font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif; transform: scaleY(0.94);}
 
